@@ -1,4 +1,4 @@
-## 📊 Final Project: Double Descent in Polynomial Regression
+## Double Descent in Polynomial Regression
 
 This notebook explores the double descent phenomenon using synthetic sinusoidal data and real-world weather data, with Ridge and Lasso regularization.
 
