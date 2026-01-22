@@ -22,7 +22,7 @@ In this project, we:
 
 ---
 
-## 📂 Repository Contents
+## Repository Contents
 
 - `DoubleDescent.ipynb` – main analysis notebook (synthetic + weather experiments)
 - `DoubleDescentReport.pdf` – full write-up with math, figures, and discussion
@@ -33,7 +33,7 @@ In this project, we:
 
 ---
 
-## 📊 Methods
+## Methods
 
 ### 1. Synthetic Sine Dataset
 
