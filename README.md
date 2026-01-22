@@ -1,18 +1,11 @@
-## Double Descent in Polynomial Regression
+# Double Descent in Polynomial Regression
 
 This notebook explores the double descent phenomenon using synthetic sinusoidal data and real-world weather data, with Ridge and Lasso regularization.
 
 View the notebook: [Math156_FinalProject.ipynb](DoubleDescent.ipynb)  
 Final report: [Math156_FinalPaper.pdf](DoubleDescentReport.pdf)
 
-
-# Double Descent in Polynomial Regression
-
-This project explores the **double descent** phenomenon in polynomial regression and how **Ridge** and **Lasso** regularization shape generalization behavior. Using both **synthetic sinusoidal data** and **real-world weather data**, we study how test error changes as model complexity increases, and how regularization can suppress the characteristic spike in error near the interpolation threshold. :contentReference[oaicite:0]{index=0}  
-
----
-
-## 🔍 Project Overview
+## Project Overview
 
 Classical learning theory predicts a **U-shaped bias–variance tradeoff**: test error decreases with model complexity, then increases as the model overfits. Double descent describes a more modern behavior where test error:
 
