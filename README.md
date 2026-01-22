@@ -2,8 +2,8 @@
 
 This project explores the **double descent** phenomenon using synthetic sinusoidal data and real-world weather data, with **Ridge** and **Lasso** regularization.
 
-📓 View the notebook: [DoubleDescent.ipynb](DoubleDescent.ipynb)  
-📄 Final report: [DoubleDescentReport.pdf](DoubleDescentReport.pdf)
+View the notebook: [DoubleDescent.ipynb](DoubleDescent.ipynb)  
+Final report: [DoubleDescentReport.pdf](DoubleDescentReport.pdf)
 
 ---
 
