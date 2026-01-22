@@ -65,16 +65,15 @@ We then:
 To control model complexity, we introduced **L1** and **L2** regularization.
 
 - **Lasso (L1)** objective:
-
-  \begin{equation}
-  \min_w \lVert y - Xw \rVert_2^2 + \alpha \lVert w \rVert_1
-  \end{equation}
+  $$
+  \min_w |y - Xw|_2^2 + \alpha |w|_1
+  $$
 
 - **Ridge (L2)** objective:
+  $$
+  \min_w |y - Xw|_2^2 + \alpha |w|_2^2
+  $$
 
-  \begin{equation}
-  \min_w \lVert y - Xw \rVert_2^2 + \alpha \lVert w \rVert_2^2
-  \end{equation}
 
 
 Implementation details:
