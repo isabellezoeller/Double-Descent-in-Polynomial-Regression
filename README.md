@@ -26,10 +26,8 @@ In this project, we:
 
 - `DoubleDescent.ipynb` – main analysis notebook (synthetic + weather experiments)
 - `DoubleDescentReport.pdf` – full write-up with math, figures, and discussion
-- `data/`  
-  - `weather_albury_2016.csv` (or instructions to download from Kaggle)
-- `figures/` (optional) – saved plots for double descent curves and solution fits
-- `requirements.txt` – Python dependencies
+- `data`  
+  - `weather_albury_2016.csv` via Kaggle.
 
 ---
 
